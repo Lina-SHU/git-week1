@@ -1,1 +1,2 @@
-# git-week1
+## 團隊成員
+- 蕾蕾 leilei
